@@ -7,15 +7,14 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
     "@google/genai": "^1.37.0",
-    "lucide-react": "^0.462.0",
+    "lucide-react": "^0.463.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "recharts": "^2.13.3"
+    "recharts": "^2.15.0"
   },
   "devDependencies": {
     "@types/react": "^19.0.0",
